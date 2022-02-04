@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+    font-family: 'Martel', serif;
+    height: 100px;
+}
+
+div.main-container { 
+border: 2px solid red;
+}
+header,
+main{
+    border: 2px solid white;
+    height: 400px;
+}
